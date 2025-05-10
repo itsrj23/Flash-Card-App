@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MemorAIzeProject</string>
+    <string name="title_activity_chat_bot_module">ChatBotModule</string>
+</resources>
