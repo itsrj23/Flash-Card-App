@@ -83,6 +83,10 @@ dependencies {
     //Navigation Bar
     implementation ("androidx.navigation:navigation-compose:2.7.0-rc01")
 
+    //Flash Card
+    implementation ("androidx.navigation:navigation-compose:2.7.0")
+    implementation ("androidx.lifecycle:lifecycle-runtime-ktx:2.6.1")
+
     // Testing
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
